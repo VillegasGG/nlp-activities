@@ -1,6 +1,6 @@
 import math
-from BoW.input import read_files
-from BoW.preprocess import preprocess_data
+from input import read_files
+from preprocess import preprocess_data
 
 # BoW
 def create_bow_representation(tokens, vocabulary):
