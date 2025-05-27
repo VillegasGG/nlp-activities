@@ -5,7 +5,7 @@ Preprocess the dataset for training and evaluation.
 stopwods_spanish = [
     "de", "la", "que", "el", "en", "y", "a", "los", 
     "del", "se", "las", "con", "un", "por", "para",
-    "lo", "al", "o", "una"]
+    "lo", "al", "o", "una", "es", "muy"]
 
 symbols = [
     "¡", "¿", ":", ";", ",", ".", "!", "?", "-", "_", "(", 
