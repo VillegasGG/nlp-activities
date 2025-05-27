@@ -17,7 +17,4 @@ def read_files(files: list):
         except IOError as e:
             print(f"Error reading file {file}: {e}")
 
-    print(f"Read {len(contents)} files successfully.")
-    print(f"Contents: {contents}")
-
     return contents
